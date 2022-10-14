@@ -5,3 +5,5 @@ git commit -m "first commit" branch.txt	提交暂存区
 
 git reflog					查看版本信息
 git reset --hard e88c8a5		版本穿越
+
+123456789
