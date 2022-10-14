@@ -1,0 +1,4 @@
+git init			初始化
+git status		查看状态
+git add hello.txt	添加暂存区
+git commit -m "first commit" branch.txt	提交暂存区
